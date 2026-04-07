@@ -1,2 +1,4 @@
 # react-atlas
-A React, dev-only tool to visualize the components tree in a live graph.
+
+React Atlas is a dev-only React tool for visualizing a component hierarchy as a live graph.
+
